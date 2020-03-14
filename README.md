@@ -1,4 +1,4 @@
-# Keras_minimal_gan_jpn
+# Keras_minimal_dcgan_jpn
 Kerasで記述された最小のDCGANコード<br />
 Mnistの数字を生成<br />
 潜在変数(z_dim)100で生成<br />
